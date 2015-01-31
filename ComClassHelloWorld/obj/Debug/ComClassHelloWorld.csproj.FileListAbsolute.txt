@@ -1,0 +1,5 @@
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassHelloWorld\ComClassHelloWorld\bin\Debug\ComClassHelloWorld.dll
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassHelloWorld\ComClassHelloWorld\bin\Debug\ComClassHelloWorld.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassHelloWorld\ComClassHelloWorld\bin\Debug\ComClassHelloWorld.tlb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassHelloWorld\ComClassHelloWorld\obj\Debug\ComClassHelloWorld.dll
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassHelloWorld\ComClassHelloWorld\obj\Debug\ComClassHelloWorld.pdb

@@ -1,0 +1,16 @@
+C:\direct_project\nhin-d\csharp\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.dll
+C:\direct_project\nhin-d\csharp\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.pdb
+C:\direct_project\nhin-d\csharp\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.tlb
+C:\direct_project\nhin-d\csharp\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.dll
+C:\direct_project\nhin-d\csharp\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.pdb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.tlb
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.dll
+C:\Users\frank.decaire\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.dll
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.dll
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\bin\Debug\ComClassExample2.tlb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\ComClassExample2\ComClassExample2\obj\Debug\ComClassExample2.csprojResolveAssemblyReference.cache
